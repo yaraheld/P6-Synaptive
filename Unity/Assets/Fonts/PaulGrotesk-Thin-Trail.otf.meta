@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ad726d87c0cb4441f8f3f347bf58ec46
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Paul Grotesk
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ecd89f2bf0a874c67b5e26e1e6586a03, type: 3}
+  - {fileID: 12800000, guid: 00c3d2c618e6144389daa4d25724ba77, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
