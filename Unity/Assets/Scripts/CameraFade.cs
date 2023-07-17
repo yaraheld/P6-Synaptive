@@ -38,7 +38,7 @@ public class CameraFade : MonoBehaviour
                 alpha = 1f;
                 time = 0f;
                 direction = 1;
-                timeCounter = 100; //wenn UI/Frage in der Scene stattfindet
+                timeCounter = 15; //wenn UI/Frage in der Scene stattfindet
                 // timeCounter = 3; //wenn UI/Frage in einer anderen Scene stattfindet
             }
             else // Fully faded in 
